@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\bin\Debug\netcoreapp3.1\Static, Extention.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Static, Extention\Static, Extention\obj\Debug\netcoreapp3.1\Static, Extention.genruntimeconfig.cache
